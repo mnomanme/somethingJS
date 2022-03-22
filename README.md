@@ -4,4 +4,4 @@
 
 ## JavaScript DOM Projects
 
-### [RGB Color]()
+### [01. RGB Color]()
